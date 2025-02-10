@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 1280px;
+    background-image:url(bag2.jpg);
+    background-position: center;
+    background-size: cover;
+    height:550px;
+}
+
+
+.navbar{
+    
+    width: 1200px;
+    height: 75px;
+    margin:auto;
+}
+
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+
+}
+
+.logo{
+    color:rgb(255, 242, 0);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace; 
+   
+    padding-top: 20px;
+    padding-bottom: 10px;
+    float: left;
+}
+
+.menu{
+    width: 400px;
+    float: left;
+    justify-content: center;
+    align-items: center;
+}
